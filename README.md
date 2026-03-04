@@ -159,7 +159,7 @@ timber_db.sql
 ## 👨‍💻 Author
 
 **JT Akshay Kanna**  
-MCA Student  
-NMAM Institute of Technology, Nitte
+Full Stack Developer 
+
 ---
 
